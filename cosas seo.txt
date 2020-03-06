@@ -1,0 +1,42 @@
+<script type="application/ld+json">
+        {
+            "@context" : "http://schema.org",
+            "@type" : "TVEpisode",
+            "partOfTVSeries" : {
+                "@type" : "TVSeries",
+                "name" : "Juego de tronos"
+            },
+            "name" : "Desembarco del Rey",
+            "image" : "http://www.googleusercontent.com/img/logo.jpg",
+            "url" : "http://www.targaryan.es/",
+            "director" : {
+                "@type" : "Person",
+                "name" : "David Benioff,  D. B. Weiss"
+            },
+            "actor" : {
+                "@type" : "Person",
+                "name" : "Ned Stark"
+            },
+            "datePublished" : "2011-04-17",
+            "aggregateRating" : {
+                "@type" : "AggregateRating",
+                "ratingValue" : "La valoracion esta basada en las opiniones  de muchos usuarios",
+                "bestRating" : "5",
+                "ratingCount" : "4.5/5"
+            },
+            "review" : {
+                "@type" : "Review",
+                "author" : {
+                    "@type" : "Person",
+                    "name" : "Javi Marcos"
+                },
+                "datePublished" : "2019-09-05",
+                "reviewBody" : "George R. R. Martin escribe muy bien y además es un narrador magistral que en Juego de Tronos se dedica con mano sabia a dibujar el paisaje donde va a tener lugar su fastuoso drama; a colocar, aquí y allí, las trampas, los recovecos, los escondrijos, los agujeros negros, los túneles, las puertas falsas y los callejones sin salida. Escuché una vez a Pérez-Reverte en un programa de televisión afirmar que escribir un libro es como construir un barco, primer el impresionante esqueleto, el armazón, y luego todo lo demás, hasta la última mano de pintura.  Martin, con Juego de Tronos, no construye un barco: pone los cimientos de su catedral narrativa, y la verdad, los cimientos son firmes, el plano de su iglesia revela a un gran arquitecto porque eso tampoco va implícito en escribir bien. Dotar de sentido general, darle empaque a una historia tan grande, tiene más de planificador o estratega (al fin y al cabo, es como diseñar una campaña bélica en la que nosotros los lectores somos el enemigo al que hay que vencer mediante la capitulación) que de puro esteta o de esgrimista morfosintáctico.  Martin, empero, destaca en lo uno y en lo otro, pero como fulano que una vez se metió en la faena de escribir un libro, valoro todavía más el fino trabajo chinesco de trazar una autopista tan larga y sinuosa y conseguir que la historia, como un río de fuerza brutal, vaya por ella siempre bajo su control."
+            }
+        }
+    </script>
+
+
+
+Lo he sacado de aqui: https://www.google.com/webmasters/markup-helper/u/0/tagger?sourceId=105840700&hl=es que es una herramienta
+online de google para marcar el contenido de la web, esta herramienta esta disponible en la guia SEO de google.
